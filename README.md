@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnjanaR6125
-- 👀 I’m interested in software engineering, ethical hacking and data science.
-- 🌱 I’m NIMCET'23 aspirant.
+- 👀 I’m interested in software engineering and machine learning.
 - 💞️ I’m looking to collaborate on innovative projects.
 
 <!---
